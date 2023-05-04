@@ -1,0 +1,1 @@
+Singleton Pattern ou patron Singleton est un "patron" qui vous permet de vous assurer qu'une classe n'a qu'une seule instance, tout en fournissant un point d'accès global à cette instance.
