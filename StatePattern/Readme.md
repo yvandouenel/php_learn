@@ -1,0 +1,1 @@
+Ce "patron" ou "pattern" est utilisé lorsqu'il est souhaité de pouvoir changer le comportement d'un objet quand son état change, sans pour autant en changer l'instance.
