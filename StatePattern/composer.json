@@ -1,0 +1,15 @@
+{
+    "name": "yvandouenel/state-pattern",
+    "autoload": {
+        "psr-4": {
+            "Yvandouenel\\StatePattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yvandouenel",
+            "email": "y.douenel@coopernet.fr"
+        }
+    ],
+    "require": {}
+}
