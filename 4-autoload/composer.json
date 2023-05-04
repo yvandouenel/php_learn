@@ -1,0 +1,15 @@
+{
+    "name": "diginamic/test",
+    "autoload": {
+        "psr-4": {
+            "Diginamic\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yvandouenel",
+            "email": "ydouenel@diginamic.fr"
+        }
+    ],
+    "require": {}
+}
